@@ -1,0 +1,15 @@
+/Users/macbookm1/Projects/task-cli/TaskCLI/bin/Debug/net9.0/TaskCLI
+/Users/macbookm1/Projects/task-cli/TaskCLI/bin/Debug/net9.0/TaskCLI.deps.json
+/Users/macbookm1/Projects/task-cli/TaskCLI/bin/Debug/net9.0/TaskCLI.runtimeconfig.json
+/Users/macbookm1/Projects/task-cli/TaskCLI/bin/Debug/net9.0/TaskCLI.dll
+/Users/macbookm1/Projects/task-cli/TaskCLI/bin/Debug/net9.0/TaskCLI.pdb
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/TaskCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/TaskCLI.AssemblyInfoInputs.cache
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/TaskCLI.AssemblyInfo.cs
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/TaskCLI.csproj.CoreCompileInputs.cache
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/TaskCLI.sourcelink.json
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/TaskCLI.dll
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/refint/TaskCLI.dll
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/TaskCLI.pdb
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/TaskCLI.genruntimeconfig.cache
+/Users/macbookm1/Projects/task-cli/TaskCLI/obj/Debug/net9.0/ref/TaskCLI.dll
